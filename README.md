@@ -1,0 +1,3 @@
+This repository contains a curated collection of fundamental SQL programs and practice scripts designed for beginners learning database management. It covers core DDL schema definitions, data manipulation, and CRUD operations to help you understand how relational database management systems store and process structured data.
+
+In addition to basic table management, the project includes practical examples of data retrieval using conditional filtering, sorting, aggregations, and grouping functions. These scripts serve as an easy-to-follow reference for anyone looking to build a strong foundation in SQL query writing and database querying.
