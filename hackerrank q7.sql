@@ -26,3 +26,9 @@ WHERE first_name LIKE 'J%';
 SELECT *
 FROM Customers
 WHERE last_name LIKE '%e';
+
+//find the letter with "oh" in a firstname 
+
+SELECT *
+FROM Customers
+WHERE first_name LIKE '%oh%';
