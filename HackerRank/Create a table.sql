@@ -1,3 +1,5 @@
+// creatin a table 
+
 CREATE TABLE Employees (
     EmpID INT PRIMARY KEY,
     FirstName VARCHAR(50),
